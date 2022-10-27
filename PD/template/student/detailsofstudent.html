@@ -1,0 +1,10 @@
+<h1>Details OF Student</h1>
+<hr>
+<h3>{{object.name}}</h3>
+<h3>{{object.family}}</h3>
+<h3>{{object.age}}</h3>
+<h3>{{object.university}}</h3>
+<h3>{{object.status}}</h3>
+
+<a href="{% url 'UpdateStudentProfile' object.id %}">Update</a>
+<a href="{% url 'DeleteStudentProfile' object.id %}">Delete</a>

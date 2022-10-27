@@ -1,0 +1,7 @@
+<h1>List OF Student</h1>
+<hr>
+<ul>
+{% for object in object_list %}
+<li><a href="{% url 'detailsofstudent' object.id %}">{{object}}</a></li>
+{% endfor %}
+</ul>

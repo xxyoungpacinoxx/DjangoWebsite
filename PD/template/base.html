@@ -1,0 +1,12 @@
+<ul style="background-color: navy; color: white;">
+    <li><a href="{% url 'home'%}">University Managment</a></li>
+    {% if user.is_authenticated %}
+        <li>{{user.username}}</li>
+        <li><a href="{% url 'logout' %}">logout</a></li>
+    {% else %}
+        <li><a href="{% url 'login' %}">login</a></li>
+    {% endif %}
+</ul>
+{% block content %}
+
+{% endblock content %}

@@ -1,2 +1,2 @@
 # DjangoWebsite
-Biuld Website With Django
+Build Website With Django

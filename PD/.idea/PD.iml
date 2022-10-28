@@ -19,6 +19,9 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/myenv" />
     </content>
+<<<<<<< HEAD
+>>>>>>> parent of fd73154 (create account app)
+=======
 >>>>>>> parent of fd73154 (create account app)
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

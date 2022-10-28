@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (MechineVision)" project-jdk-type="Python SDK" />
   <component name="PyPackaging">
     <option name="earlyReleasesAsUpgrades" value="true" />
   </component>
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (PD)" project-jdk-type="Python SDK" />
+>>>>>>> parent of fd73154 (create account app)
 =======
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (PD)" project-jdk-type="Python SDK" />
 >>>>>>> parent of fd73154 (create account app)
